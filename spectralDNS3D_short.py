@@ -1,3 +1,4 @@
+
 __author__ = "Mikael Mortensen <mikaem@math.uio.no>"
 __date__ = "2015-01-02"
 __copyright__ = "Copyright (C) 2014-2018 " + __author__
